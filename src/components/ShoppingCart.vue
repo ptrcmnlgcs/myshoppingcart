@@ -72,7 +72,7 @@ h2{
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  width: 15px; /* Set the width to 25% of the screen */
+  width: 15px;
   float: right;
   margin-right: 20px;
 }

@@ -51,7 +51,7 @@ h2 {
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  width: 15%; /* Set the width to 15% of the screen */
+  width: 15%;
   float: right;
   margin-right: 20px;
 }
@@ -85,7 +85,7 @@ h2 {
   padding: 8px 16px;
   border-radius: 4px;
   cursor: pointer;
-  margin-left: 20px; /* Add margin to separate from product info */
+  margin-left: 20px;
 }
 
 .add-to-cart-btn:hover {
